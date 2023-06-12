@@ -38,7 +38,7 @@ def check():
     #     logic_adapters=[
     #         'chatterbot.logic.BestMatch',
     #     ],
-    #     database_uri='mongodb://root:abid123@15.185.205.195:27017/oun_production'
+    #     database_uri='###'
     # )
 
     chatbot = ChatBot('Training Example')
